@@ -16,7 +16,7 @@ DAY = [
     "thursday", "friday", "saturday", "sunday", "all"]
 
 
-
+# comment 1
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
